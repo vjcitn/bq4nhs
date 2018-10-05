@@ -1,0 +1,14 @@
+Package: bq4nhs
+Title: illustrating BigQuery+R for NHS
+Description: This package uses bigrquery to work with NHS data
+Version: 0.0.0
+Author: Vince Carey
+Suggests: knitr
+Depends: R (>= 3.5), bigrquery, dplyr, magrittr
+Maintainer: VJ Carey <stvjc@channing.harvard.edu>
+License: Artistic-2.0
+LazyLoad: yes
+LazyData: yes
+VignetteBuilder: knitr
+RoxygenNote: 6.1.0
+Encoding: UTF-8
